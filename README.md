@@ -13,7 +13,7 @@ Users should be able to:
 ### Screenshot
 
 ![](design/viewDesktop.png)
-![](design/viewMopbile.png)
+![](design/viewMobile.png)
 
 
 ### Links
